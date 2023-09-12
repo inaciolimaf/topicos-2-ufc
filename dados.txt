@@ -1,0 +1,4 @@
+Teste,Estrela,0
+Teste,Estrela,0
+Teste,Estrela,0
+Teste,Estrela,10
